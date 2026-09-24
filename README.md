@@ -1,5 +1,5 @@
 simpletron.c: Código fuente con el ciclo de búsqueda, decodificación, ejecución y vaciado de memoria.
-README.md :casos de prueba
+
 
 
 
